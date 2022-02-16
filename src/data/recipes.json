@@ -1,0 +1,8377 @@
+[{
+	"name": "Adept Excavating Tool",
+	"materials": [{
+		"name": "Adept Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 8
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Adept Fishing Tool",
+	"materials": [{
+		"name": "Adept Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 8
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Adept Foraging Tool",
+	"materials": [{
+		"name": "Adept Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 8
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Adept Hunting Tool",
+	"materials": [{
+		"name": "Adept Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 8
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Adept Logging Tool",
+	"materials": [{
+		"name": "Adept Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 8
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Adept Mining Tool",
+	"materials": [{
+		"name": "Adept Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 8
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Adrophine Potion",
+	"materials": [{
+		"name": "Bright Wild Flower",
+		"amount": 6
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 2
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 24
+	}, {
+		"name": "Rare Relic",
+		"amount": 2
+	}, {
+		"name": "Wild Flower",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Advent of Betrayal Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Advent of Betrayal Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Age-old Encavian Wine",
+	"materials": [{
+		"name": "Hidden Encavian Liquor Bottle",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Apprentice Excavating Tool",
+	"materials": [{
+		"name": "Apprentice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 3
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Apprentice Fishing Tool",
+	"materials": [{
+		"name": "Apprentice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 3
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Apprentice Foraging Tool",
+	"materials": [{
+		"name": "Apprentice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 3
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Apprentice Hunting Tool",
+	"materials": [{
+		"name": "Apprentice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 3
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Apprentice Logging Tool",
+	"materials": [{
+		"name": "Apprentice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 3
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Apprentice Mining Tool",
+	"materials": [{
+		"name": "Apprentice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 3
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 15
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Arthetine Archaeological Site Map",
+	"materials": [{
+		"name": "Rare Relic",
+		"amount": 170
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Avesta Smoked Beef Jerkey",
+	"materials": [{
+		"name": "Lean Meat Chunk",
+		"amount": 10
+	}, {
+		"name": "Fatty Part",
+		"amount": 5
+	}, {
+		"name": "Joint Part Meat",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 4100
+	}]
+}, {
+	"name": "Awakening Potion",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 5
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 20
+	}, {
+		"name": "Sturdy Timber",
+		"amount": 2
+	}, {
+		"name": "Rare Relic",
+		"amount": 4
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Balankar Ranger's Salad",
+	"materials": [{
+		"name": "Vine",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Basic Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Relic",
+		"amount": 8
+	}, {
+		"name": "Rare Relic",
+		"amount": 26
+	}, {
+		"name": "Ancient Relic",
+		"amount": 64
+	}, {
+		"name": "Gold",
+		"amount": 205
+	}]
+}, {
+	"name": "Basic Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Solar Carp",
+		"amount": 10
+	}, {
+		"name": "Natural Pearl",
+		"amount": 40
+	}, {
+		"name": "Fish",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 205
+	}]
+}, {
+	"name": "Basic Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 10
+	}, {
+		"name": "Tough Leather",
+		"amount": 40
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 205
+	}]
+}, {
+	"name": "Battle Item: Bomb Selection Chest",
+	"materials": [{
+		"name": "Fragrant Mushroom",
+		"amount": 3
+	}, {
+		"name": "Strong Ore",
+		"amount": 1
+	}, {
+		"name": "Smooth Mushroom",
+		"amount": 12
+	}, {
+		"name": "Natural Gem",
+		"amount": 3
+	}, {
+		"name": "Plain Mushroom",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Battle Item: Grenade Selection Chest",
+	"materials": [{
+		"name": "Fragrant Mushroom",
+		"amount": 2
+	}, {
+		"name": "Strong Timber",
+		"amount": 1
+	}, {
+		"name": "Smooth Mushroom",
+		"amount": 8
+	}, {
+		"name": "Tender Timber",
+		"amount": 2
+	}, {
+		"name": "Plain Mushroom",
+		"amount": 16
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Battle Item: HP Potion Selection Chest",
+	"materials": [{
+		"name": "Exquisite Flower Petal",
+		"amount": 5
+	}, {
+		"name": "Strong Timber",
+		"amount": 1
+	}, {
+		"name": "Cute Flower Petal",
+		"amount": 20
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 1
+	}, {
+		"name": "Simple Flower Petal",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Battle Item: Potion Selection Chest",
+	"materials": [{
+		"name": "Exquisite Flower Petal",
+		"amount": 4
+	}, {
+		"name": "Strong Timber",
+		"amount": 2
+	}, {
+		"name": "Cute Flower Petal",
+		"amount": 20
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 1
+	}, {
+		"name": "Simple Flower Petal",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Battle Item: Robe Selection Chest",
+	"materials": [{
+		"name": "Fragrant Mushroom",
+		"amount": 4
+	}, {
+		"name": "Strong Ore",
+		"amount": 1
+	}, {
+		"name": "Smooth Mushroom",
+		"amount": 16
+	}, {
+		"name": "Processed Leather",
+		"amount": 3
+	}, {
+		"name": "Plain Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Battle Item: Support Selection Chest",
+	"materials": [{
+		"name": "Fragrant Mushroom",
+		"amount": 3
+	}, {
+		"name": "Strong Ore",
+		"amount": 2
+	}, {
+		"name": "Smooth Mushroom",
+		"amount": 12
+	}, {
+		"name": "Tender Timber",
+		"amount": 3
+	}, {
+		"name": "Plain Mushroom",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Bear Gallbladder Skewer",
+	"materials": [{
+		"name": "Maneating Bear's Gall Bladder",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Bellion Wings",
+	"materials": [{
+		"name": "Chicken Wings",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 9600
+	}]
+}, {
+	"name": "Bergstrom Drink",
+	"materials": [{
+		"name": "Bergstrom's Invisibility Potion",
+		"amount": 1
+	}, {
+		"name": "Bergstrom's Yellow Potion",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Betrayal Instinct Battle Hammer",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct Focus",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct Gauntlets",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct Greatsword",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct Gunlance",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct Heavy Gauntlets",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct One-Handed Sword",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal Instinct Spear",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Betrayal's Gaze Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Betrayal's Gaze Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Bloody Fist",
+	"materials": [{
+		"name": "Emptied Bloody Fist",
+		"amount": 1
+	}, {
+		"name": "Failed Distilled Beverage",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 4100
+	}]
+}, {
+	"name": "Boiling Liquid",
+	"materials": [{
+		"name": "IX-IX1X1I12123X1",
+		"amount": 3
+	}, {
+		"name": "IX-ILIL121lIILI1",
+		"amount": 4
+	}, {
+		"name": "IX-XX1XX31456XX11",
+		"amount": 5
+	}, {
+		"name": "NMNNNMNMNMNM-vwurnmn",
+		"amount": 6
+	}, {
+		"name": "II-1I1I11I1I",
+		"amount": 4
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Boisterous Elemental Battle Hammer",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental Focus",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental Gauntlets",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental Greatsword",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental Gunlance",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental Heavy Gauntlets",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental One-Handed Sword",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boisterous Elemental Spear",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Boosting Fluid Soup",
+	"materials": [{
+		"name": "Adrenaline-boosting Fluid",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Brilliant Star Charm",
+	"materials": [{
+		"name": "Luminous Elemental Stone Charm",
+		"amount": 1
+	}, {
+		"name": "Tranquil Citrine",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 1100
+	}]
+}, {
+	"name": "Brisket Being Cooked",
+	"materials": [{
+		"name": "Uncommon Brisket",
+		"amount": 1
+	}, {
+		"name": "Brisket Dry Rub",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 12000
+	}]
+}, {
+	"name": "Broken Ice Piece",
+	"materials": [{
+		"name": "Giant Ice Piece",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "Browned Grilled Skewers",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 10
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 10
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 16
+	}, {
+		"name": "Fish",
+		"amount": 16
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "Butter Steak Meal",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 5
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 5
+	}, {
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 40
+	}, {
+		"name": "Fish",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 25
+	}]
+}, {
+	"name": "Caldarr Fusion Material",
+	"materials": [{
+		"name": "Caldarr Relic",
+		"amount": 7
+	}, {
+		"name": "Rare Relic",
+		"amount": 28
+	}, {
+		"name": "Ancient Relic",
+		"amount": 56
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Caldarr Fusion Material",
+	"materials": [{
+		"name": "Caldarr Solar Carp",
+		"amount": 9
+	}, {
+		"name": "Natural Pearl",
+		"amount": 36
+	}, {
+		"name": "Fish",
+		"amount": 72
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Caldarr Fusion Material",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 9
+	}, {
+		"name": "Tough Leather",
+		"amount": 36
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 72
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Camouflage Robe",
+	"materials": [{
+		"name": "Tough Leather",
+		"amount": 22
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 22
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 35
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Campfire",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 15
+	}, {
+		"name": "Timber",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Cashew Cashew Smoothie",
+	"materials": [{
+		"name": "Rough Cashew Powder",
+		"amount": 10
+	}, {
+		"name": "Fine Cashew Powder",
+		"amount": 2
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Charming Instinct Battle Hammer",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct Focus",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct Gauntlets",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct Greatsword",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct Gunlance",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct Heavy Gauntlets",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct One-Handed Sword",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Instinct Spear",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Charming Moon Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Moon Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Charming Oculus Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Charming Oculus Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Chewy Grilled Skewers",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 3
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 3
+	}, {
+		"name": "Treated Meat",
+		"amount": 12
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 10
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 24
+	}, {
+		"name": "Fish",
+		"amount": 20
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}, {
+	"name": "Chosen Battle Hammer",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen Focus",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen Gauntlets",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen Greatsword",
+	"materials": [{
+		"name": "Argo's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen Gunlance",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen Heavy Gauntlets",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen One-Handed Sword",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Chosen Spear",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 300
+	}]
+}, {
+	"name": "Clay Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Cooking: Artisan Cooking Selection Chest",
+	"materials": [{
+		"name": "Uncommon Raw Meat",
+		"amount": 24
+	}, {
+		"name": "Sturdy Carp",
+		"amount": 24
+	}, {
+		"name": "Raw Meat",
+		"amount": 38
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 38
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "Cooking: Artisan's Garlic Steak Meal Chest",
+	"materials": [{
+		"name": "Uncommon Raw Meat",
+		"amount": 50
+	}, {
+		"name": "Sturdy Carp",
+		"amount": 50
+	}, {
+		"name": "Raw Meat",
+		"amount": 80
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 80
+	}, {
+		"name": "Silver",
+		"amount": 2500
+	}]
+}, {
+	"name": "Cooking: Expert Butter Steak Meal Chest",
+	"materials": [{
+		"name": "Caldarr Farm Raw Meat",
+		"amount": 11
+	}, {
+		"name": "Oreha Glittering Carp",
+		"amount": 10
+	}, {
+		"name": "Uncommon Raw Meat",
+		"amount": 44
+	}, {
+		"name": "Sturdy Carp",
+		"amount": 44
+	}, {
+		"name": "Raw Meat",
+		"amount": 88
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 25
+	}]
+}, {
+	"name": "Cooking: Expert Cooking Selection Chest",
+	"materials": [{
+		"name": "Caldarr Farm Raw Meat",
+		"amount": 5
+	}, {
+		"name": "Oreha Glittering Carp",
+		"amount": 4
+	}, {
+		"name": "Uncommon Raw Meat",
+		"amount": 20
+	}, {
+		"name": "Sturdy Carp",
+		"amount": 16
+	}, {
+		"name": "Raw Meat",
+		"amount": 40
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Cooking: Master's Cooking Selection Chest",
+	"materials": [{
+		"name": "Oreha Farm Raw Meat",
+		"amount": 6
+	}, {
+		"name": "Oreha Glittering Carp",
+		"amount": 5
+	}, {
+		"name": "Uncommon Raw Meat",
+		"amount": 24
+	}, {
+		"name": "Sturdy Carp",
+		"amount": 24
+	}, {
+		"name": "Raw Meat",
+		"amount": 48
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}, {
+	"name": "Cooking: Master's Herb Steak Meal Chest",
+	"materials": [{
+		"name": "Oreha Farm Raw Meat",
+		"amount": 14
+	}, {
+		"name": "Oreha Glittering Carp",
+		"amount": 13
+	}, {
+		"name": "Uncommon Raw Meat",
+		"amount": 56
+	}, {
+		"name": "Sturdy Carp",
+		"amount": 56
+	}, {
+		"name": "Raw Meat",
+		"amount": 112
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 104
+	}, {
+		"name": "Gold",
+		"amount": 50
+	}]
+}, {
+	"name": "Coolkur Beer",
+	"materials": [{
+		"name": "Emptied Kulkrazan",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2400
+	}]
+}, {
+	"name": "Coolkur Beer",
+	"materials": [{
+		"name": "Old Boots",
+		"amount": 1
+	}, {
+		"name": "Craft Beer",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 3900
+	}]
+}, {
+	"name": "Corrosive Bomb",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 6
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Corrupted Yearning Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Corrupted Yearning Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Covetous Whisper Battle Hammer",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper Focus",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper Gauntlets",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper Greatsword",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper Gunlance",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper Heavy Gauntlets",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper One-Handed Sword",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Covetous Whisper Spear",
+	"materials": [{
+		"name": "Covetous Fang",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Crayfish with Vegetables",
+	"materials": [{
+		"name": "Crayfish",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 12000
+	}]
+}, {
+	"name": "Crispy Grilled Skewers",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 3
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 2
+	}, {
+		"name": "Treated Meat",
+		"amount": 10
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 8
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 20
+	}, {
+		"name": "Fish",
+		"amount": 16
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Crunch Crunch Fried Shell",
+	"materials": [{
+		"name": "Egg of Creation Shell",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Cykin Combat Ration Type C",
+	"materials": [{
+		"name": "Vacuum-dried Powder X-1",
+		"amount": 1
+	}, {
+		"name": "Vacuum-dried Powder X-3",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Dark Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Tender Timber",
+		"amount": 3
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Dazzling Twilight Battle Hammer",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight Focus",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight Gauntlets",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight Greatsword",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight Gunlance",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight Heavy Gauntlets",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight One-Handed Sword",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Dazzling Twilight Spear",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Crystal",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Deer Hind Hooves Stew",
+	"materials": [{
+		"name": "Deer Hind Hoof",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Demon Beast Strength Battle Hammer",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength Focus",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength Gauntlets",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength Greatsword",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength Gunlance",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength Heavy Gauntlets",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength One-Handed Sword",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Demon Beast Strength Spear",
+	"materials": [{
+		"name": "Demon Beast Vein",
+		"amount": 25
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Destruction Bomb",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 6
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Destructive Fear Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Fear Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Destructive Gasp Greatsword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp Battle Hammer",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp Focus",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp Gunlance",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp Heavy Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp One-Handed Sword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Grasp Spear",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Destructive Maze Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Destructive Maze Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion Balance Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Balance Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Dominion Fang Battle Hammer",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang Focus",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang Greatsword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang Gunlance",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang Heavy Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang One-Handed Sword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion Fang Spear",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Dominion's Touch Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Dominion's Touch Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Earth's Entropy Battle Hammer",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy Focus",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy Greatsword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy Gunlance",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy Heavy Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy One-Handed Sword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Earth's Entropy Spear",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Eel Caviar Salad",
+	"materials": [{
+		"name": "Eel Caviar",
+		"amount": 1
+	}, {
+		"name": "Plainweed",
+		"amount": 5
+	}, {
+		"name": "Swamp Moss",
+		"amount": 15
+	}, {
+		"name": "Vine Needle Grass",
+		"amount": 30
+	}, {
+		"name": "Silver",
+		"amount": 8100
+	}]
+}, {
+	"name": "Eel Herb Kholodets",
+	"materials": [{
+		"name": "Feiton Eel Meat",
+		"amount": 30
+	}, {
+		"name": "Cooking Herb",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 6500
+	}]
+}, {
+	"name": "Efferin's Egg Rice",
+	"materials": [{
+		"name": "Special Egg Rice Recipe",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Electric Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Elemental HP Potion",
+	"materials": [{
+		"name": "Bright Wild Flower",
+		"amount": 6
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 24
+	}, {
+		"name": "Wild Flower",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Enraged Nature Battle Hammer",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature Focus",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature Gauntlets",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature Greatsword",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature Gunlance",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature Heavy Gauntlets",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature One-Handed Sword",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Enraged Nature Spear",
+	"materials": [{
+		"name": "Elemental's Fury",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Entropy Curse Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Ether Essence",
+	"materials": [{
+		"name": "Empty Ether Bottle",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1600
+	}]
+}, {
+	"name": "Ether Essence",
+	"materials": [{
+		"name": "Azure Energy Concentrate",
+		"amount": 1
+	}, {
+		"name": "Magical Fermentation Boost",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 3100
+	}]
+}, {
+	"name": "Expert Excavating Tool",
+	"materials": [{
+		"name": "Expert Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 28
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 20
+	}, {
+		"name": "Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Expert Fishing Tool",
+	"materials": [{
+		"name": "Expert Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 28
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 20
+	}, {
+		"name": "Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Expert Foraging Tool",
+	"materials": [{
+		"name": "Expert Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 28
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 20
+	}, {
+		"name": "Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Expert Hunting Tool",
+	"materials": [{
+		"name": "Expert Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 28
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 20
+	}, {
+		"name": "Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Expert Logging Tool",
+	"materials": [{
+		"name": "Expert Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 28
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 20
+	}, {
+		"name": "Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Expert Mining Tool",
+	"materials": [{
+		"name": "Expert Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 28
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 20
+	}, {
+		"name": "Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Feiton Archaeological Site Map",
+	"materials": [{
+		"name": "Caldarr Relic",
+		"amount": 35
+	}, {
+		"name": "Rare Relic",
+		"amount": 175
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Feiton Blood Pudding Sausage",
+	"materials": [{
+		"name": "Blood Pudding Chunk",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 6500
+	}]
+}, {
+	"name": "Fesnar Mushroom Stew",
+	"materials": [{
+		"name": "Fesnar Poisonous Mushroom",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Flame Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Tender Timber",
+		"amount": 3
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Flare",
+	"materials": [{
+		"name": "Natural Pearl",
+		"amount": 20
+	}, {
+		"name": "Wild Flower",
+		"amount": 35
+	}, {
+		"name": "Silver",
+		"amount": 1200
+	}]
+}, {
+	"name": "Flash Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Flower Salad",
+	"materials": [{
+		"name": "Savory-looking Flower",
+		"amount": 30
+	}, {
+		"name": "Sour-looking Flower",
+		"amount": 30
+	}, {
+		"name": "Sweet-looking Flower",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 9600
+	}]
+}, {
+	"name": "Fluffy Omelet",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 10
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 10
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 16
+	}, {
+		"name": "Fish",
+		"amount": 16
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "Frost Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Fusion Material: Basic Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Ancient Oreha Relic",
+		"amount": 8
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 28
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 74
+	}, {
+		"name": "Gold",
+		"amount": 205
+	}]
+}, {
+	"name": "Fusion Material: Basic Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Glittering Carp",
+		"amount": 10
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 40
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 100
+	}, {
+		"name": "Gold",
+		"amount": 205
+	}]
+}, {
+	"name": "Fusion Material: Basic Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Farm Raw Meat",
+		"amount": 9
+	}, {
+		"name": "Processed Leather",
+		"amount": 36
+	}, {
+		"name": "Raw Meat",
+		"amount": 90
+	}, {
+		"name": "Gold",
+		"amount": 205
+	}]
+}, {
+	"name": "Fusion Material: Caldarr Fusion Material Chest",
+	"materials": [{
+		"name": "Ancient Caldarr Relic",
+		"amount": 7
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 25
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 68
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Fusion Material: Caldarr Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Glittering Carp",
+		"amount": 9
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 36
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 90
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Fusion Material: Caldarr Fusion Material Chest",
+	"materials": [{
+		"name": "Caldarr Farm Raw Meat",
+		"amount": 8
+	}, {
+		"name": "Processed Leather",
+		"amount": 32
+	}, {
+		"name": "Raw Meat",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Fusion Material: Simple Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Ancient Oreha Relic",
+		"amount": 7
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 25
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 68
+	}, {
+		"name": "Gold",
+		"amount": 203
+	}]
+}, {
+	"name": "Fusion Material: Simple Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Glittering Carp",
+		"amount": 9
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 36
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 90
+	}, {
+		"name": "Gold",
+		"amount": 203
+	}]
+}, {
+	"name": "Fusion Material: Simple Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Farm Raw Meat",
+		"amount": 8
+	}, {
+		"name": "Processed Leather",
+		"amount": 32
+	}, {
+		"name": "Raw Meat",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 203
+	}]
+}, {
+	"name": "Fusion Material: Uncommon Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Ancient Oreha Relic",
+		"amount": 12
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 46
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 120
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Fusion Material: Uncommon Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Glittering Carp",
+		"amount": 16
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 62
+	}, {
+		"name": "Fresh Minnow",
+		"amount": 160
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Fusion Material: Uncommon Oreha Fusion Material Chest",
+	"materials": [{
+		"name": "Oreha Farm Raw Meat",
+		"amount": 16
+	}, {
+		"name": "Processed Leather",
+		"amount": 62
+	}, {
+		"name": "Raw Meat",
+		"amount": 160
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Garlic Steak Meal",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 19
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 19
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 30
+	}, {
+		"name": "Fish",
+		"amount": 30
+	}, {
+		"name": "Silver",
+		"amount": 2500
+	}]
+}, {
+	"name": "Goblin Fish Soup",
+	"materials": [{
+		"name": "Unknown Soup",
+		"amount": 1
+	}, {
+		"name": "Goblins' Fish",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Golden Champion's Crest",
+	"materials": [{
+		"name": "Silver Champion's Crest",
+		"amount": 1
+	}, {
+		"name": "Rubellite of Tenacity",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Gourmet Seafood Stew",
+	"materials": [{
+		"name": "Rock Cave Shellfish",
+		"amount": 1
+	}, {
+		"name": "Rock Cave Shrimp",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Gourmet Stir-fried Mushroom",
+	"materials": [{
+		"name": "Stale Uncooked Mushroom",
+		"amount": 20
+	}, {
+		"name": "Sour Uncooked Mushroom",
+		"amount": 10
+	}, {
+		"name": "Sweet Uncooked Mushroom",
+		"amount": 5
+	}, {
+		"name": "Pink Mushroom Stir-fry Sauce",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 4800
+	}]
+}, {
+	"name": "Great Stew",
+	"materials": [{
+		"name": "Thick Seafood Stew",
+		"amount": 1
+	}, {
+		"name": "Thick Harvest Stew",
+		"amount": 1
+	}, {
+		"name": "Thick Meat Stew",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 4800
+	}]
+}, {
+	"name": "Grilled Sapphire Sardine",
+	"materials": [{
+		"name": "Sapphire Sardine",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "HP Potion",
+	"materials": [{
+		"name": "Shy Wild Flower",
+		"amount": 5
+	}, {
+		"name": "Wild Flower",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 1200
+	}]
+}, {
+	"name": "Half and Half, Dip and Pour",
+	"materials": [{
+		"name": "Shattered Dip and Pour Bowl",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Hallucination Reverb Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Hallucination Reverb Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Harmony",
+	"materials": [{
+		"name": "Questionable Cocktail",
+		"amount": 1
+	}, {
+		"name": "Pungent Cocktail",
+		"amount": 1
+	}, {
+		"name": "Palatable Cocktail",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Harsh Oath Battle Hammer",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath Focus",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath Gauntlets",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath Greatsword",
+	"materials": [{
+		"name": "Argo's Molar",
+		"amount": 30
+	}, {
+		"name": "Argo's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath Gunlance",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath Heavy Gauntlets",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath One-Handed Sword",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Harsh Oath Spear",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Vein",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Herb Steak Meal",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 6
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 5
+	}, {
+		"name": "Treated Meat",
+		"amount": 24
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 48
+	}, {
+		"name": "Fish",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 50
+	}]
+}, {
+	"name": "Honey Butter Beer",
+	"materials": [{
+		"name": "Honey Butter",
+		"amount": 3
+	}, {
+		"name": "Beer",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2500
+	}]
+}, {
+	"name": "II-1I1I11I1I",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "II-1I1I1I1I1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "II-1I1I1I1I1I",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "II-1Il1I1I1I1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-10450325262366",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-1LIL121lIILI1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-IL1L121lIILI1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-ILIL121lIIL11",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-ILIL121lIILI1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-ILIL12IlIILI1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-ILILI21lIILI1llL",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-ILILI31lIILI1llL",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-IX1X1I12123X1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-IX1X1II2123X1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-XX1X121456XX11",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-XX1X131456XX12",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-XX1X13L456XX11",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-XX1XX31456XX11",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "IX-XX2X121456XX11",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "Intestine that may be used for cooking",
+	"materials": [{
+		"name": "Unknown Intestine",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Jelly Chew",
+	"materials": [{
+		"name": "Chew Jelly",
+		"amount": 1
+	}, {
+		"name": "Chew Chew Jelly",
+		"amount": 1
+	}, {
+		"name": "Chew Chew Chew Jelly",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1600
+	}]
+}, {
+	"name": "Kaloa Boar BBQ",
+	"materials": [{
+		"name": "Raw Boar Meat",
+		"amount": 10
+	}, {
+		"name": "Banana Leaf",
+		"amount": 50
+	}, {
+		"name": "Silver",
+		"amount": 6000
+	}]
+}, {
+	"name": "Kandarian Cold Lager",
+	"materials": [{
+		"name": "Empty Kandarian Cold Lager Bottle",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2400
+	}]
+}, {
+	"name": "Kandarian Cold Lager",
+	"materials": [{
+		"name": "Kandarian Cold Lager Recipe, Part One",
+		"amount": 1
+	}, {
+		"name": "Kandarian Cold Lager Recipe, Part Two",
+		"amount": 1
+	}, {
+		"name": "Kandarian Cold Lager Recipe, Part Three",
+		"amount": 1
+	}, {
+		"name": "Kandarian Cold Lager Recipe, Part Four",
+		"amount": 1
+	}, {
+		"name": "Kandarian Cold Lager Recipe, Part Five",
+		"amount": 1
+	}, {
+		"name": "Kandarian Cold Lager Recipe, Part Six",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 9600
+	}]
+}, {
+	"name": "Krakan Intestine Cream Soup",
+	"materials": [{
+		"name": "Intestine that may be used for cooking",
+		"amount": 50
+	}, {
+		"name": "Fine Intestine",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 8100
+	}]
+}, {
+	"name": "Long Live the Queen!",
+	"materials": [{
+		"name": "Proxima Course Meal",
+		"amount": 1
+	}, {
+		"name": "Balankar Ranger's Salad",
+		"amount": 1
+	}, {
+		"name": "Harmony",
+		"amount": 1
+	}, {
+		"name": "Goblin Fish Soup",
+		"amount": 1
+	}, {
+		"name": "Vern Anniversary Spirits",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Luminous Elemental Stone Charm",
+	"materials": [{
+		"name": "Luminous Gem Charm",
+		"amount": 1
+	}, {
+		"name": "Silent Citrine",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Luminous Gem Charm",
+	"materials": [{
+		"name": "Faint Ore Charm",
+		"amount": 1
+	}, {
+		"name": "Faint Citrine",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 170
+	}]
+}, {
+	"name": "Luterra Archaeological Site Map",
+	"materials": [{
+		"name": "Rare Relic",
+		"amount": 170
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Luterra's Horn",
+	"materials": [{
+		"name": "Bright Wild Flower",
+		"amount": 4
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 2
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 20
+	}, {
+		"name": "Wild Flower",
+		"amount": 40
+	}, {
+		"name": "Iron Ore",
+		"amount": 2
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Luterran Course Meal",
+	"materials": [{
+		"name": "Luterran Courtesies",
+		"amount": 1
+	}, {
+		"name": "Sirloin",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Magical Vernese Brandy",
+	"materials": [{
+		"name": "Empty Magical Vernese Brandy Bottle",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2400
+	}]
+}, {
+	"name": "Magick Albino Snail",
+	"materials": [{
+		"name": "Magick Snail",
+		"amount": 100
+	}, {
+		"name": "Silver",
+		"amount": 1600
+	}]
+}, {
+	"name": "Major HP Potion",
+	"materials": [{
+		"name": "Shy Wild Flower",
+		"amount": 9
+	}, {
+		"name": "Wild Flower",
+		"amount": 18
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Manpo's Secret Meat Dumpling",
+	"materials": [{
+		"name": "100-year-old Centipede",
+		"amount": 1
+	}, {
+		"name": "Old Dumpling",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Map: Arthetine Treasure Map Chest",
+	"materials": [{
+		"name": "Faint Ancient Relic",
+		"amount": 60
+	}, {
+		"name": "Hardwood",
+		"amount": 120
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 120
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Map: Feiton Treasure Map Chest",
+	"materials": [{
+		"name": "Ancient Caldarr Relic",
+		"amount": 10
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 40
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 175
+	}, {
+		"name": "Hardwood",
+		"amount": 175
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Map: Luterra Treasure Map Chest",
+	"materials": [{
+		"name": "Faint Ancient Relic",
+		"amount": 60
+	}, {
+		"name": "Hardwood",
+		"amount": 120
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 120
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Map: Punika Treasure Map Chest",
+	"materials": [{
+		"name": "Ancient Oreha Relic",
+		"amount": 12
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 48
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 195
+	}, {
+		"name": "Hardwood",
+		"amount": 195
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Map: Rohendel Treasure Map Chest",
+	"materials": [{
+		"name": "Faint Ancient Relic",
+		"amount": 70
+	}, {
+		"name": "Hardwood",
+		"amount": 140
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 140
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Map: South Vern Treasure Map Chest",
+	"materials": [{
+		"name": "Ancient Oreha Relic",
+		"amount": 14
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 56
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 215
+	}, {
+		"name": "Hardwood",
+		"amount": 215
+	}, {
+		"name": "Gold",
+		"amount": 50
+	}]
+}, {
+	"name": "Map: Vern Treasure Map Chest",
+	"materials": [{
+		"name": "Faint Ancient Relic",
+		"amount": 60
+	}, {
+		"name": "Hardwood",
+		"amount": 120
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 120
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Map: Yorn Treasure Map Chest",
+	"materials": [{
+		"name": "Ancient Caldarr Relic",
+		"amount": 10
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 40
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 150
+	}, {
+		"name": "Hardwood",
+		"amount": 150
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Marching Flag",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Natural Pearl",
+		"amount": 8
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 38
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Marvelous Earth Battle Hammer",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth Focus",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth Gauntlets",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth Greatsword",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth Gunlance",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth Heavy Gauntlets",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth One-Handed Sword",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Marvelous Earth Spear",
+	"materials": [{
+		"name": "Artisan's Faith",
+		"amount": 7
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Master Excavating Tool",
+	"materials": [{
+		"name": "Master Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 82
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 40
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Master Fishing Tool",
+	"materials": [{
+		"name": "Master Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 82
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 40
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Master Foraging Tool",
+	"materials": [{
+		"name": "Master Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 82
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 40
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Master Hunting Tool",
+	"materials": [{
+		"name": "Master Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 82
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 40
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Master Logging Tool",
+	"materials": [{
+		"name": "Master Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 82
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 40
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Master Mining Tool",
+	"materials": [{
+		"name": "Master Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 82
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 40
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Melting Gelato",
+	"materials": [{
+		"name": "Gelato",
+		"amount": 1
+	}, {
+		"name": "Hot Chocolate Coffee",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Mine Car Lunchbox",
+	"materials": [{
+		"name": "Full Mine Car Ham Set",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 3900
+	}]
+}, {
+	"name": "Miner's Rum",
+	"materials": [{
+		"name": "Tightly Covered Rum",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Moist Omelet",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 3
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 3
+	}, {
+		"name": "Treated Meat",
+		"amount": 12
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 10
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 24
+	}, {
+		"name": "Fish",
+		"amount": 20
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}, {
+	"name": "Mute Guardian Battle Hammer",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian Focus",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian Gauntlets",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian Greatsword",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian Gunlance",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian Heavy Gauntlets",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian One-Handed Sword",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Mute Guardian Spear",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "NMNNNMNMNMMN-vwurnmn",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "NMNNNMNMNMNM-vwummn",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "NMNNNMNMNMNM-vwurnmn",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "Neria's Cheese Snack",
+	"materials": [{
+		"name": "Fermenting Cheese",
+		"amount": 15
+	}, {
+		"name": "Over-fermented Cheese",
+		"amount": 2
+	}, {
+		"name": "Funny-smelling Boots",
+		"amount": 15
+	}, {
+		"name": "Stinky Boots",
+		"amount": 3
+	}, {
+		"name": "Silver",
+		"amount": 4800
+	}]
+}, {
+	"name": "Night Entropy Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Night Entropy Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Flower Battle Hammer",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower Focus",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower Greatsword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower Gunlance",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower Heavy Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower One-Handed Sword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Flower Spear",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Nightmare Resonance Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Resonance Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Nightmare Shadow Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Nightmare Shadow Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "North Vern Archaeological Site Map",
+	"materials": [{
+		"name": "Rare Relic",
+		"amount": 170
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Not Fully Fermented Ryucrokota Salo",
+	"materials": [{
+		"name": "Ryucrokota Local Organization",
+		"amount": 40
+	}, {
+		"name": "Feiton Azure Salt",
+		"amount": 3
+	}, {
+		"name": "Silver",
+		"amount": 6500
+	}]
+}, {
+	"name": "Novice Excavating Tool",
+	"materials": [{
+		"name": "Novice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Novice Fishing Tool",
+	"materials": [{
+		"name": "Novice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Novice Foraging Tool",
+	"materials": [{
+		"name": "Novice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Novice Hunting Tool",
+	"materials": [{
+		"name": "Novice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Novice Logging Tool",
+	"materials": [{
+		"name": "Novice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Novice Mining Tool",
+	"materials": [{
+		"name": "Novice Craft Kit",
+		"amount": 1
+	}, {
+		"name": "Rare Relic",
+		"amount": 15
+	}, {
+		"name": "Ancient Relic",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Panacea",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 16
+	}, {
+		"name": "Rare Relic",
+		"amount": 5
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Pheromone Bomb",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 6
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Platinum Champion's Crest",
+	"materials": [{
+		"name": "Golden Champion's Crest",
+		"amount": 1
+	}, {
+		"name": "Rubellite of Longing",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 1100
+	}]
+}, {
+	"name": "Pow Pow Honey Health Tonic",
+	"materials": [{
+		"name": "Sweet-o-sweet Honey",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Powder of Sage",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 6
+	}, {
+		"name": "Timber",
+		"amount": 6
+	}, {
+		"name": "Stone of Sage",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Preordained Diligence Battle Hammer",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence Focus",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence Gauntlets",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence Greatsword",
+	"materials": [{
+		"name": "Argo's Molar",
+		"amount": 30
+	}, {
+		"name": "Argo's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence Gunlance",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence Heavy Gauntlets",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence One-Handed Sword",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Preordained Diligence Spear",
+	"materials": [{
+		"name": "Argos's Molar",
+		"amount": 30
+	}, {
+		"name": "Argos's Blood",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 600
+	}]
+}, {
+	"name": "Prepped Worm Head",
+	"materials": [{
+		"name": "Fresh Worm Head",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "Protective Potion",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 16
+	}, {
+		"name": "Rare Relic",
+		"amount": 5
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Protein Packed White Bird Stew",
+	"materials": [{
+		"name": "Disgorged Lump",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Proxima Course Meal",
+	"materials": [{
+		"name": "Proxima Salad",
+		"amount": 1
+	}, {
+		"name": "Proxima Root Nugget",
+		"amount": 1
+	}, {
+		"name": "Natural Proxima Skin",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Proxima Root Nugget",
+	"materials": [{
+		"name": "Proxima Root",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Proxima Salad",
+	"materials": [{
+		"name": "Proxima Stem",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Punika Archaeological Site Map",
+	"materials": [{
+		"name": "Oreha Relic",
+		"amount": 39
+	}, {
+		"name": "Rare Relic",
+		"amount": 195
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Punika Festival's Dish",
+	"materials": [{
+		"name": "Tunia Herb",
+		"amount": 1000
+	}, {
+		"name": "Wine Bottle Hidden by Someone",
+		"amount": 500
+	}, {
+		"name": "Sweet Tropical Fruit",
+		"amount": 700
+	}, {
+		"name": "Thick Lean Meat",
+		"amount": 500
+	}, {
+		"name": "Silver",
+		"amount": 14400
+	}]
+}, {
+	"name": "Rainmaking Ritual Food",
+	"materials": [{
+		"name": "Ritual Food Ingredient",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Regria Wheat Bread",
+	"materials": [{
+		"name": "Giant Wheat Sack",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Repair Shop Portal Scroll",
+	"materials": [{
+		"name": "Bright Wild Flower",
+		"amount": 18
+	}, {
+		"name": "Natural Pearl",
+		"amount": 16
+	}, {
+		"name": "Wild Flower",
+		"amount": 144
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Ripening Anti Hair Loss Agent",
+	"materials": [{
+		"name": "Hairplant",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Roasted Banana Powder",
+	"materials": [{
+		"name": "Ripe Banana",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 9600
+	}]
+}, {
+	"name": "Rohendel Archaeological Site Map",
+	"materials": [{
+		"name": "Rare Relic",
+		"amount": 200
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Rough Cashew Powder",
+	"materials": [{
+		"name": "Cashew Fruit",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "Sacred Bomb",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Iron Ore",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Sacred Charm",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 18
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Salted Food Box",
+	"materials": [{
+		"name": "Old Encavian Food Chest",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Salty Stew",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 3
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 3
+	}, {
+		"name": "Treated Meat",
+		"amount": 12
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 10
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 24
+	}, {
+		"name": "Fish",
+		"amount": 20
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}, {
+	"name": "Sceptrumpam 3mg",
+	"materials": [{
+		"name": "Sceptrum Prescription",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Screaming Hallucination Battle Hammer",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination Focus",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination Greatsword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination Gunlance",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Screaming Hallucination Spear",
+	"materials": [{
+		"name": "Phantom Intention",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 3000
+	}]
+}, {
+	"name": "Secret Yeon-Style Marinated Special",
+	"materials": [{
+		"name": "Sealed Special Sauce",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Seraphic Oath Battle Hammer",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath Focus",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath Gauntlets",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath Greatsword",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath Gunlance",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath Heavy Gauntlets",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath One-Handed Sword",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Seraphic Oath Spear",
+	"materials": [{
+		"name": "Knight's Oath",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Ship Material: Epic Ship Part Chest",
+	"materials": [{
+		"name": "Strong Ore",
+		"amount": 3
+	}, {
+		"name": "Strong Timber",
+		"amount": 3
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 4
+	}, {
+		"name": "Processed Leather",
+		"amount": 4
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Hardwood",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Ship Material: Normal Ship Part Chest",
+	"materials": [{
+		"name": "Crude Iron Ore",
+		"amount": 10
+	}, {
+		"name": "Hardwood",
+		"amount": 10
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 5
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Ship Material: Rare Ship Part Chest",
+	"materials": [{
+		"name": "Strong Ore",
+		"amount": 3
+	}, {
+		"name": "Strong Timber",
+		"amount": 2
+	}, {
+		"name": "Elegant Pearl",
+		"amount": 5
+	}, {
+		"name": "Processed Leather",
+		"amount": 5
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Hardwood",
+		"amount": 16
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Ship Material: Uncommon Ship Part Chest",
+	"materials": [{
+		"name": "Strong Ore",
+		"amount": 3
+	}, {
+		"name": "Strong Timber",
+		"amount": 2
+	}, {
+		"name": "Crude Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Hardwood",
+		"amount": 16
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Shrieking Hallucination Battle Hammer",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination Focus",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination Gauntlets",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination Greatsword",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination Gunlance",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination Heavy Gauntlets",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination One-Handed Sword",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Shrieking Hallucination Spear",
+	"materials": [{
+		"name": "Covetous Wing",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Silver Champion's Crest",
+	"materials": [{
+		"name": "Brass Champion's Crest",
+		"amount": 1
+	}, {
+		"name": "Rubellite of Will",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 170
+	}]
+}, {
+	"name": "Simple Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Relic",
+		"amount": 7
+	}, {
+		"name": "Rare Relic",
+		"amount": 28
+	}, {
+		"name": "Ancient Relic",
+		"amount": 56
+	}, {
+		"name": "Gold",
+		"amount": 203
+	}]
+}, {
+	"name": "Simple Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Solar Carp",
+		"amount": 9
+	}, {
+		"name": "Natural Pearl",
+		"amount": 36
+	}, {
+		"name": "Fish",
+		"amount": 72
+	}, {
+		"name": "Gold",
+		"amount": 203
+	}]
+}, {
+	"name": "Simple Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 9
+	}, {
+		"name": "Tough Leather",
+		"amount": 36
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 72
+	}, {
+		"name": "Gold",
+		"amount": 203
+	}]
+}, {
+	"name": "Sleep Bomb",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Iron Ore",
+		"amount": 10
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Snail Roll Cake",
+	"materials": [{
+		"name": "Magick Snail",
+		"amount": 100
+	}, {
+		"name": "Magick Albino Snail",
+		"amount": 1
+	}, {
+		"name": "Secret Cake Recipe",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 3100
+	}]
+}, {
+	"name": "Snail Transformation Potion",
+	"materials": [{
+		"name": "Magick Snail",
+		"amount": 15
+	}, {
+		"name": "Silver",
+		"amount": 1600
+	}]
+}, {
+	"name": "Snowflake Shaved Ice",
+	"materials": [{
+		"name": "Broken Ice Piece",
+		"amount": 50
+	}, {
+		"name": "Chopped Ice Piece",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "Solar Tree Sprout Cider",
+	"materials": [{
+		"name": "Solar Tree Sprout",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "Soup of Transcendence",
+	"materials": [{
+		"name": "Legendary Secret Recipe",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1700
+	}]
+}, {
+	"name": "South Vern Archaeological Site Map",
+	"materials": [{
+		"name": "Oreha Relic",
+		"amount": 43
+	}, {
+		"name": "Rare Relic",
+		"amount": 215
+	}, {
+		"name": "Gold",
+		"amount": 50
+	}]
+}, {
+	"name": "Sparkling Elemental Food",
+	"materials": [{
+		"name": "Purified Lotus Flower Water",
+		"amount": 1
+	}, {
+		"name": "First Contaminated Elemental Food",
+		"amount": 1
+	}, {
+		"name": "Second Contaminated Elemental Food",
+		"amount": 1
+	}, {
+		"name": "Third Contaminated Elemental Food",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2500
+	}]
+}, {
+	"name": "Special Golden Compass",
+	"materials": [{
+		"name": "Special Silver Compass",
+		"amount": 1
+	}, {
+		"name": "Oceanic Aquamarine",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 800
+	}]
+}, {
+	"name": "Special Nebula Compass",
+	"materials": [{
+		"name": "Special Golden Compass",
+		"amount": 1
+	}, {
+		"name": "Tidal Aquamarine",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 1100
+	}]
+}, {
+	"name": "Special Silver Compass",
+	"materials": [{
+		"name": "Uncommon Wooden Compass",
+		"amount": 1
+	}, {
+		"name": "Luminous Aquamarine",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 170
+	}]
+}, {
+	"name": "Spicy Stew",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 10
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 10
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 16
+	}, {
+		"name": "Fish",
+		"amount": 16
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "Splendid Campfire",
+	"materials": [{
+		"name": "Campfire",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 6
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Clay Grenade",
+	"materials": [{
+		"name": "Clay Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Corrosion Bomb",
+	"materials": [{
+		"name": "Corrosive Bomb",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 2
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Dark Grenade",
+	"materials": [{
+		"name": "Dark Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Destruction Bomb",
+	"materials": [{
+		"name": "Destruction Bomb",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 2
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Disguise Robe",
+	"materials": [{
+		"name": "Camouflage Robe",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 9
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Elemental HP Potion",
+	"materials": [{
+		"name": "Elemental HP Potion",
+		"amount": 3
+	}, {
+		"name": "Bright Wild Flower",
+		"amount": 8
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Splendid Flame Grenade",
+	"materials": [{
+		"name": "Flame Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Flare",
+	"materials": [{
+		"name": "Flare",
+		"amount": 3
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 20
+	}, {
+		"name": "Gold",
+		"amount": 5
+	}]
+}, {
+	"name": "Splendid Flash Grenade",
+	"materials": [{
+		"name": "Flash Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Frost Grenade",
+	"materials": [{
+		"name": "Frost Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Lightening Grenade",
+	"materials": [{
+		"name": "Electric Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Marching Flag",
+	"materials": [{
+		"name": "Marching Flag",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Panacea",
+	"materials": [{
+		"name": "Panacea",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 10
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Protective Potion",
+	"materials": [{
+		"name": "Protective Potion",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 10
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Sacred Bomb",
+	"materials": [{
+		"name": "Sacred Bomb",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Sacred Charm",
+	"materials": [{
+		"name": "Sacred Charm",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Sleep Bomb",
+	"materials": [{
+		"name": "Sleep Bomb",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 2
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Stealth Robe",
+	"materials": [{
+		"name": "Stealth Robe",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 9
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Splendid Swift Robe",
+	"materials": [{
+		"name": "Swiftness Robe",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Taunting Scarecrow",
+	"materials": [{
+		"name": "Taunting Scarecrow",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 7
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Thunder Potion",
+	"materials": [{
+		"name": "Thunder Potion",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 10
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Splendid Whirlwind Grenade",
+	"materials": [{
+		"name": "Whirlwind Grenade",
+		"amount": 3
+	}, {
+		"name": "Exquisite Mushroom",
+		"amount": 4
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Starsand Cocktail",
+	"materials": [{
+		"name": "Emptied Starsand Cocktail",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2400
+	}]
+}, {
+	"name": "Starsand Cocktail",
+	"materials": [{
+		"name": "Sweet Mojito",
+		"amount": 3
+	}, {
+		"name": "Punika Gin",
+		"amount": 3
+	}, {
+		"name": "Silver",
+		"amount": 6000
+	}]
+}, {
+	"name": "Stealth Robe",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 5
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 15
+	}, {
+		"name": "Strong Iron Ore",
+		"amount": 2
+	}, {
+		"name": "Tough Leather",
+		"amount": 2
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 35
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Steamed Oyster with White Wine",
+	"materials": [{
+		"name": "Fresh Oyster",
+		"amount": 30
+	}, {
+		"name": "Silver",
+		"amount": 9600
+	}]
+}, {
+	"name": "Steamed Papu Crab",
+	"materials": [{
+		"name": "Papu Crab",
+		"amount": 3
+	}, {
+		"name": "Silver",
+		"amount": 12000
+	}]
+}, {
+	"name": "Structure: Armor Display Rack",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Awning",
+	"materials": [{
+		"name": "Timber",
+		"amount": 15
+	}, {
+		"name": "Silver",
+		"amount": 4000
+	}]
+}, {
+	"name": "Structure: Bar Table",
+	"materials": [{
+		"name": "Timber",
+		"amount": 96
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Bent Marble Bench",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 48
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Brown Sunbed",
+	"materials": [{
+		"name": "Timber",
+		"amount": 72
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 60
+	}]
+}, {
+	"name": "Structure: Cute Flower Garden",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Dyorika Waterwheel",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 10
+	}, {
+		"name": "Timber",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 5000
+	}]
+}, {
+	"name": "Structure: Exquisite Flower Garden",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Festival Iron Pot",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 18
+	}, {
+		"name": "Timber",
+		"amount": 6
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Firework Device",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 12
+	}, {
+		"name": "Timber",
+		"amount": 12
+	}, {
+		"name": "Oreha Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Fishing Table",
+	"materials": [{
+		"name": "Timber",
+		"amount": 96
+	}, {
+		"name": "Tender Timber",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Game Table",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Timber",
+		"amount": 72
+	}, {
+		"name": "Tough Leather",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Giant Arian Tree",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Giant Fish Tank",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 72
+	}, {
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Oreha Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Half-Boiled Egg Chair",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 18
+	}, {
+		"name": "Timber",
+		"amount": 18
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Structure: High-Quality Chair",
+	"materials": [{
+		"name": "Timber",
+		"amount": 36
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Structure: Innocent Flowerbed",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Jibrol Tree",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Large Windmill",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 18
+	}, {
+		"name": "Timber",
+		"amount": 54
+	}, {
+		"name": "Tough Leather",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 60
+	}]
+}, {
+	"name": "Structure: Lord's Chair",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Timber",
+		"amount": 44
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Lovely Flower Garden",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Luterra-Style Large Fountain",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 96
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Marble Bench",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 48
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Marble Table",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 48
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Messenger Pigeon Post",
+	"materials": [{
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: NACT-l Counter",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Timber",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Structure: Neria's Tavern Menu Board",
+	"materials": [{
+		"name": "Timber",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 2000
+	}]
+}, {
+	"name": "Structure: Passionate Flowerbed",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Pumpkin Scarecrow",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Caldarr Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Reed Field",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Reinforced Safe Box",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 6
+	}, {
+		"name": "Timber",
+		"amount": 18
+	}, {
+		"name": "Tender Timber",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Rethramis-Style Large Fountain",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 96
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Rethramis-Style Medium Fountain",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 48
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Caldarr Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Rethramis-Style Small Fountain",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 12
+	}, {
+		"name": "Timber",
+		"amount": 12
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Rohendel-Style Bench",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Rohendel-Style Large Bench",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Timber",
+		"amount": 72
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Round Table",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 12
+	}, {
+		"name": "Timber",
+		"amount": 36
+	}, {
+		"name": "Tough Leather",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Soft Couch",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Caldarr Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Tarta Tree",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Urr's Tree Bench",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 5
+	}, {
+		"name": "Timber",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 3000
+	}]
+}, {
+	"name": "Structure: Vern-Style Bench",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 12
+	}, {
+		"name": "Timber",
+		"amount": 36
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Vern-Style Large Bench",
+	"materials": [{
+		"name": "Timber",
+		"amount": 96
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Vern-Style Large Fountain",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Timber",
+		"amount": 72
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Vine Door",
+	"materials": [{
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Vine Fence (Giant)",
+	"materials": [{
+		"name": "Timber",
+		"amount": 48
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Vine Fence (Large)",
+	"materials": [{
+		"name": "Timber",
+		"amount": 36
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Structure: Vine Fence (Medium)",
+	"materials": [{
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Vine Fence (Small)",
+	"materials": [{
+		"name": "Timber",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 10
+	}]
+}, {
+	"name": "Structure: Vine Pillar",
+	"materials": [{
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Structure: Weapon Display Rack",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 24
+	}, {
+		"name": "Timber",
+		"amount": 24
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 1
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Structure: Wooden Bed",
+	"materials": [{
+		"name": "Timber",
+		"amount": 96
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Wooden Table",
+	"materials": [{
+		"name": "Timber",
+		"amount": 96
+	}, {
+		"name": "Tender Timber",
+		"amount": 1
+	}, {
+		"name": "Caldarr Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Work Desk",
+	"materials": [{
+		"name": "Timber",
+		"amount": 96
+	}, {
+		"name": "Tender Timber",
+		"amount": 1
+	}, {
+		"name": "Caldarr Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 80
+	}]
+}, {
+	"name": "Structure: Worship Bench",
+	"materials": [{
+		"name": "Iron Ore",
+		"amount": 12
+	}, {
+		"name": "Timber",
+		"amount": 36
+	}, {
+		"name": "Vernil Carpentry Toolbox",
+		"amount": 1
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Sunset Battle Hammer",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset Focus",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset Gauntlets",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset Greatsword",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset Gunlance",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset Heavy Gauntlets",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset One-Handed Sword",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Sunset Spear",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Gold",
+		"amount": 200
+	}]
+}, {
+	"name": "Superior Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Relic",
+		"amount": 16
+	}, {
+		"name": "Rare Relic",
+		"amount": 29
+	}, {
+		"name": "Ancient Relic",
+		"amount": 94
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Superior Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Solar Carp",
+		"amount": 16
+	}, {
+		"name": "Natural Pearl",
+		"amount": 64
+	}, {
+		"name": "Fish",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Superior Oreha Fusion Material",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 16
+	}, {
+		"name": "Tough Leather",
+		"amount": 64
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Swamp of Yearning Battle Hammer",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning Focus",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning Greatsword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning Gunlance",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning Heavy Gauntlets",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning One-Handed Sword",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Swamp of Yearning Spear",
+	"materials": [{
+		"name": "Demonic Beast's Bone",
+		"amount": 25
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 1000
+	}]
+}, {
+	"name": "Sweet Honey Butter Beer",
+	"materials": [{
+		"name": "Empty Beer Stein",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1600
+	}]
+}, {
+	"name": "Sweet Stew",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 3
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 2
+	}, {
+		"name": "Treated Meat",
+		"amount": 10
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 8
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 20
+	}, {
+		"name": "Fish",
+		"amount": 16
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Sweet Sweet Royal Jelly",
+	"materials": [{
+		"name": "Honeycomb",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Swiftness Robe",
+	"materials": [{
+		"name": "Tough Leather",
+		"amount": 17
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 17
+	}, {
+		"name": "Wild Flower",
+		"amount": 27
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Taunting Scarecrow",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 15
+	}, {
+		"name": "Timber",
+		"amount": 13
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Tender Omelet",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 3
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 2
+	}, {
+		"name": "Treated Meat",
+		"amount": 10
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 8
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 20
+	}, {
+		"name": "Fish",
+		"amount": 16
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Thirain T-Bone Steak",
+	"materials": [{
+		"name": "Dry-aged Meat",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 1400
+	}]
+}, {
+	"name": "Thunder Potion",
+	"materials": [{
+		"name": "Bright Wild Flower",
+		"amount": 4
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 16
+	}, {
+		"name": "Rare Relic",
+		"amount": 5
+	}, {
+		"name": "Wild Flower",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Time Stop Potion",
+	"materials": [{
+		"name": "Bright Wild Flower",
+		"amount": 5
+	}, {
+		"name": "Sturdy Timber",
+		"amount": 2
+	}, {
+		"name": "Shy Wild Flower",
+		"amount": 20
+	}, {
+		"name": "Rare Relic",
+		"amount": 2
+	}, {
+		"name": "Wild Flower",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Tooki Tooki Soup",
+	"materials": [{
+		"name": "Captured Tooki's Tears",
+		"amount": 1
+	}, {
+		"name": "Mana-infused Soup",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 3100
+	}]
+}, {
+	"name": "Tool Crafting Part",
+	"materials": [{
+		"name": "Strong Iron Ore",
+		"amount": 22
+	}, {
+		"name": "Sturdy Timber",
+		"amount": 22
+	}, {
+		"name": "Heavy Iron Ore",
+		"amount": 88
+	}, {
+		"name": "Tender Timber",
+		"amount": 88
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Tool: Adept Trade Skill Tool Selection Chest",
+	"materials": [{
+		"name": "Adept Tool Craft Kit (Bound)",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part (Bound)",
+		"amount": 8
+	}, {
+		"name": "Strong Ore",
+		"amount": 15
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 15
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 100
+	}]
+}, {
+	"name": "Tool: Apprentice Trade Skill Tool Selection Chest",
+	"materials": [{
+		"name": "Apprentice Tool Craft Kit (Bound)",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part (Bound)",
+		"amount": 3
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 15
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 30
+	}]
+}, {
+	"name": "Tool: Expert Trade Skill Tool Selection Chest",
+	"materials": [{
+		"name": "Expert Tool Craft Kit (Bound)",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part (Bound)",
+		"amount": 28
+	}, {
+		"name": "Strong Ore",
+		"amount": 30
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 20
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 250
+	}]
+}, {
+	"name": "Tool: Master Trade Skill Tool Selection Chest",
+	"materials": [{
+		"name": "Master Tool Craft Kit (Bound)",
+		"amount": 1
+	}, {
+		"name": "Tool Crafting Part (Bound)",
+		"amount": 82
+	}, {
+		"name": "Strong Ore",
+		"amount": 40
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 80
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 500
+	}]
+}, {
+	"name": "Tool: Tool Crafting Part Chest",
+	"materials": [{
+		"name": "Strong Ore",
+		"amount": 22
+	}, {
+		"name": "Strong Timber",
+		"amount": 22
+	}, {
+		"name": "Natural Gem",
+		"amount": 88
+	}, {
+		"name": "Tender Timber",
+		"amount": 88
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "Tool: Trade Skill Tool Restoration Kit Chest",
+	"materials": [{
+		"name": "Tool Crafting Part (Bound)",
+		"amount": 40
+	}, {
+		"name": "Strong Timber",
+		"amount": 26
+	}, {
+		"name": "Faint Ancient Relic",
+		"amount": 80
+	}, {
+		"name": "Archaic Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Trade Skill Tool Restoration Kit",
+	"materials": [{
+		"name": "Sturdy Timber",
+		"amount": 26
+	}, {
+		"name": "Rare Relic",
+		"amount": 80
+	}, {
+		"name": "Tool Crafting Part",
+		"amount": 40
+	}, {
+		"name": "Ancient Relic",
+		"amount": 128
+	}, {
+		"name": "Gold",
+		"amount": 40
+	}]
+}, {
+	"name": "Unyielding Will Battle Hammer",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will Focus",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will Gauntlets",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will Greatsword",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will Gunlance",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will Heavy Gauntlets",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will One-Handed Sword",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Unyielding Will Spear",
+	"materials": [{
+		"name": "Guardian's Will",
+		"amount": 10
+	}, {
+		"name": "Silver",
+		"amount": 7000
+	}]
+}, {
+	"name": "Vernilaya",
+	"materials": [{
+		"name": "Ingredient: Meat",
+		"amount": 10
+	}, {
+		"name": "Ingredient: Seafood",
+		"amount": 30
+	}, {
+		"name": "Silver",
+		"amount": 12000
+	}]
+}, {
+	"name": "Warm Evening Battle Hammer",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening Focus",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening Gauntlets",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening Greatsword",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening Gunlance",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening Heavy Gauntlets",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening One-Handed Sword",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Warm Evening Spear",
+	"materials": [{
+		"name": "Sunset Scale",
+		"amount": 30
+	}, {
+		"name": "Oreha's Empyrean",
+		"amount": 12
+	}, {
+		"name": "Gold",
+		"amount": 400
+	}]
+}, {
+	"name": "Whirlwind Grenade",
+	"materials": [{
+		"name": "Exquisite Mushroom",
+		"amount": 3
+	}, {
+		"name": "Fresh Mushroom",
+		"amount": 12
+	}, {
+		"name": "Tender Timber",
+		"amount": 3
+	}, {
+		"name": "Crude Mushroom",
+		"amount": 24
+	}, {
+		"name": "Gold",
+		"amount": 15
+	}]
+}, {
+	"name": "Wild Banana Bread",
+	"materials": [{
+		"name": "Well-fermented dough",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 12000
+	}]
+}, {
+	"name": "Wonderful Rum",
+	"materials": [{
+		"name": "Empty Rum Bottle",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 2400
+	}]
+}, {
+	"name": "Wonderful Rum",
+	"materials": [{
+		"name": "Back Alley Rum",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 3900
+	}]
+}, {
+	"name": "Worm Head Jelly",
+	"materials": [{
+		"name": "Prepped Worm Head",
+		"amount": 30
+	}, {
+		"name": "Prepped Worm Skin",
+		"amount": 5
+	}, {
+		"name": "Silver",
+		"amount": 4800
+	}]
+}, {
+	"name": "Worm Poop Coffee",
+	"materials": [{
+		"name": "Salt Worm Poop",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 900
+	}]
+}, {
+	"name": "X-ILIL221lIILI1",
+	"materials": [{
+		"name": "Unknown Crystal",
+		"amount": 1
+	}, {
+		"name": "Silver",
+		"amount": 400
+	}]
+}, {
+	"name": "Yearning Edge Battle Hammer",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge Focus",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge Greatsword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge Gunlance",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge Heavy Gauntlets",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge One-Handed Sword",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yearning Edge Spear",
+	"materials": [{
+		"name": "Phantom Horn",
+		"amount": 100
+	}, {
+		"name": "Stone of Chaos",
+		"amount": 3
+	}, {
+		"name": "Gold",
+		"amount": 2000
+	}]
+}, {
+	"name": "Yorn Archaeological Site Map",
+	"materials": [{
+		"name": "Caldarr Relic",
+		"amount": 30
+	}, {
+		"name": "Rare Relic",
+		"amount": 150
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "[Masterwork] Artisan's Browned Grilled Skewers",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 32
+	}, {
+		"name": "Fish",
+		"amount": 32
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "[Masterwork] Artisan's Fluffy Omelet",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 32
+	}, {
+		"name": "Fish",
+		"amount": 32
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "[Masterwork] Artisan's Garlic Steak Meal",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 38
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 38
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 60
+	}, {
+		"name": "Fish",
+		"amount": 60
+	}, {
+		"name": "Silver",
+		"amount": 2500
+	}]
+}, {
+	"name": "[Masterwork] Artisan's Spicy Stew",
+	"materials": [{
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 32
+	}, {
+		"name": "Fish",
+		"amount": 32
+	}, {
+		"name": "Silver",
+		"amount": 1000
+	}]
+}, {
+	"name": "[Masterwork] Expert Butter Steak Meal",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 10
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 10
+	}, {
+		"name": "Treated Meat",
+		"amount": 40
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 40
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 80
+	}, {
+		"name": "Fish",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 25
+	}]
+}, {
+	"name": "[Masterwork] Expert Crispy Grilled Skewers",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 5
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 4
+	}, {
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 16
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 40
+	}, {
+		"name": "Fish",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "[Masterwork] Expert Sweet Stew",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 5
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 4
+	}, {
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 16
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 40
+	}, {
+		"name": "Fish",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "[Masterwork] Expert Tender Omelet",
+	"materials": [{
+		"name": "Caldarr Thick Raw Meat",
+		"amount": 5
+	}, {
+		"name": "Caldarr Solar Carp",
+		"amount": 4
+	}, {
+		"name": "Treated Meat",
+		"amount": 20
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 16
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 40
+	}, {
+		"name": "Fish",
+		"amount": 32
+	}, {
+		"name": "Gold",
+		"amount": 20
+	}]
+}, {
+	"name": "[Masterwork] Master's Chewy Grilled Skewers",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 6
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 5
+	}, {
+		"name": "Treated Meat",
+		"amount": 24
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 48
+	}, {
+		"name": "Fish",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}, {
+	"name": "[Masterwork] Master's Herb Steak Meal",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 12
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 10
+	}, {
+		"name": "Treated Meat",
+		"amount": 48
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 40
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 96
+	}, {
+		"name": "Fish",
+		"amount": 80
+	}, {
+		"name": "Gold",
+		"amount": 50
+	}]
+}, {
+	"name": "[Masterwork] Master's Moist Omelet",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 6
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 5
+	}, {
+		"name": "Treated Meat",
+		"amount": 24
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 48
+	}, {
+		"name": "Fish",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}, {
+	"name": "[Masterwork] Master's Salty Stew",
+	"materials": [{
+		"name": "Oreha Thick Meat",
+		"amount": 6
+	}, {
+		"name": "Oreha Solar Carp",
+		"amount": 5
+	}, {
+		"name": "Treated Meat",
+		"amount": 24
+	}, {
+		"name": "Redflesh Fish",
+		"amount": 20
+	}, {
+		"name": "Thick Raw Meat",
+		"amount": 48
+	}, {
+		"name": "Fish",
+		"amount": 40
+	}, {
+		"name": "Gold",
+		"amount": 35
+	}]
+}]

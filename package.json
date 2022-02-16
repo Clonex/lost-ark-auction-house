@@ -1,0 +1,25 @@
+{
+  "name": "lost-ark-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "start:watch": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clonex/lost-ark-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clonex/lost-ark-calculator/issues"
+  },
+  "homepage": "https://github.com/Clonex/lost-ark-calculator#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
