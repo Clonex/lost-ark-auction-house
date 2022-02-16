@@ -1,13 +1,7 @@
-import {existsSync, writeFileSync} from "fs";
+import {recipes, prices} from "./helpers.js";
 
-
-import {recipes, generatePriceConfig, PRICE_CONFIG, prices} from "./helpers.js";
-
-if(!existsSync(PRICE_CONFIG))
+if(prices)
 {
-    writeFileSync(PRICE_CONFIG, JSON.stringify(generatePriceConfig(recipes)));
-    console.log("Fill out the auction prices in", PRICE_CONFIG, "and re-run.");
-}else{
     const cost = recipes.map(recipe => {
         recipe.cost = recipe.materials.reduce((cost, curr) => {
             cost += Number(prices[curr.name]) * curr.amount;
@@ -18,4 +12,6 @@ if(!existsSync(PRICE_CONFIG))
         return recipe;
     }).sort((a, b) => a.profit - b.profit);
     console.log(cost);
+}else{
+    console.log("Price data not found! Run `npm run scrape` to scrape the data.");
 }

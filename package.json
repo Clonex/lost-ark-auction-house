@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js",
+    "scrape": "node src/scrape.js",
     "start:watch": "nodemon src/index.js"
   },
   "repository": {
@@ -20,6 +21,14 @@
   },
   "homepage": "https://github.com/Clonex/lost-ark-calculator#readme",
   "dependencies": {
+    "clipboardy": "^3.0.0",
+    "jimp": "^0.16.1",
+    "node-tesseract-ocr": "^2.2.1",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.12.7",
+    "tesseract.js": "^2.1.5"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.15"
   }
 }
