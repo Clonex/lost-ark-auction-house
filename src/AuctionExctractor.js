@@ -15,7 +15,6 @@ export default class AuctionExtractor {
     _worker;
     constructor()
     {
-        // this.getPrice("Elemental HP potion");
         this._worker = createWorker({
             logger: m => {}
         });
@@ -26,7 +25,7 @@ export default class AuctionExtractor {
         let out = {};
 
         const names = Object.keys(items);
-        for(let i = 0; i < 5; i++) //names.length
+        for(let i = 0; i < names.length; i++) //names.length
         {
             const name = names[i];
             out[name] = await this.getPrice(name);

@@ -23,9 +23,7 @@
   "dependencies": {
     "clipboardy": "^3.0.0",
     "jimp": "^0.16.1",
-    "node-tesseract-ocr": "^2.2.1",
     "robotjs": "^0.6.0",
-    "screenshot-desktop": "^1.12.7",
     "tesseract.js": "^2.1.5"
   },
   "devDependencies": {
