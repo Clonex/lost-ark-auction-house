@@ -9,6 +9,7 @@ export default class AuctionExtractor {
     SEARCH_POS = {x: 1551, y: 243};
     LOADING_POS = {x: 1060, y: 447};
     PRICE_POS = {x: 1082, y: 312};
+    BUNDLE_POS = {x: 615, y: 333};
 
     LOADING_COLOR = "101114";
 
@@ -33,8 +34,17 @@ export default class AuctionExtractor {
         }
 
         return out;
-        // const test = await this.getPrice("Strong Iron Ore");
+        // const test = await this.getPrice("Caldarr Thick Raw Meat");
         // console.log("Got something", test);
+    }
+
+    async ocr(buffer, charset)
+    {
+        await this._worker.setParameters({
+            tessedit_char_whitelist: charset,
+        });
+        const { data: { text } } = await this._worker.recognize(buffer);
+        return text ?? "";
     }
 
     async getPrice(itemName)
@@ -60,16 +70,30 @@ export default class AuctionExtractor {
             await wait(100);
         }
         
-        const price = await captureImage(this.PRICE_POS.x, this.PRICE_POS.y, 123, 39, itemName);
-        
+        const priceImage = await captureImage(this.PRICE_POS.x, this.PRICE_POS.y, 123, 39);
         
         await this._worker.load();
         await this._worker.loadLanguage('eng');
         await this._worker.initialize('eng');
-        await this._worker.setParameters({
-            tessedit_char_whitelist: '0123456789.',
-        });
-        const { data: { text } } = await this._worker.recognize(price);
-        return text.length > 0 ? Number(text.trim()) : false;
+        
+        const priceText = await this.ocr(priceImage, '0123456789.');
+        let price = priceText.length > 0 ? Number(priceText.trim()) : false;
+        
+        if(price) // Adjust price if sold in bundles
+        {
+            const bundleImage = await captureImage(this.BUNDLE_POS.x, this.BUNDLE_POS.y, 288, 17);
+            const bundleText = (await this.ocr(bundleImage, ' ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz[]0123456789.')).split(" ");
+            for(let i = 0; i < bundleText.length; i++)
+            {
+                const word = bundleText[i];
+                if(word.toLowerCase().includes("units"))
+                {
+                    const unitSize = bundleText[i - 1];
+                    price = price / Number(unitSize.trim());
+                    break;
+                }
+            }
+        }
+        return price;
     }
 }

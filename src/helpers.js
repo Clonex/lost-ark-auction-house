@@ -51,8 +51,11 @@ export function captureImage(x, y, w, h, ID ) {
         }
         image.bitmap.data[i] = 255;
     }
-  })
-  // image.writeAsync(`./test-${ID}.png`);
+  });
+  if(ID)
+  {
+    image.writeAsync(`./test-${ID}.png`);
+  }
   return image.getBufferAsync(Jimp.MIME_PNG);
 }
 
