@@ -7,6 +7,7 @@ console.log("Starting auction house scrape..");
 await wait(2500);
 const prices = generatePriceConfig(recipes);
 
+// console.log(Object.keys());
 let auction = new AuctionExctractor();
 const data = await auction.start(prices);
 console.log("Got data", data);

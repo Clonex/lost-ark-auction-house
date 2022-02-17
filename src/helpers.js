@@ -10,18 +10,36 @@ export const prices = fs.existsSync(PRICE_CONFIG) ? JSON.parse(fs.readFileSync(P
 export function generatePriceConfig(data)
 {
     let out = {};
-    data.forEach(d => {
-        if(!out[d.name])
+    Object.values(data).forEach(recipe => {
+      if(!out[recipe.name])
+      {
+        out[recipe.name] = 0;
+      }
+
+      recipe.materials.forEach(mat => {
+        const name = data[mat.id];
+        if(!name)
         {
-            out[d.name] = 0;
+          // console.log("Not found! :(", mat.id, recipe);
         }
-        d.materials.forEach(mat => {
-            if(!out[mat.name])
-            {
-                out[mat.name] = 0;
-            }
-        });
+        if(!out[name])
+        {
+          out[name] = 0;
+        }
+      });
     });
+    // data.forEach(d => {
+    //     if(!out[d.name])
+    //     {
+    //         out[d.name] = 0;
+    //     }
+    //     d.materials.forEach(mat => {
+    //         if(!out[mat.name])
+    //         {
+    //             out[mat.name] = 0;
+    //         }
+    //     });
+    // });
     return out;
 }
 

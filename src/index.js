@@ -3,13 +3,14 @@ import {recipes, prices} from "./helpers.js";
 if(prices)
 {
     const gathers = ["Wild Flower", "Shy Wild Flower", "Bright Wild Flower", "Timber", "Tender Timber", "Sturdy Timber", "Iron Ore", "Heavy Iron Ore", "Strong Iron Ore"];
-    const cost = recipes.map(recipe => {
+    const cost = Object.values(recipes).map(recipe => {
         if(!prices[recipe.name])
         {
             return false;
         }
         recipe.materials = recipe.materials.map(mat => {
             mat.cost = 0;
+            mat.name = recipes[mat.id]?.name;
             if(mat.name === "Gold")
             {
                 mat.cost = mat.amount;
@@ -34,7 +35,7 @@ if(prices)
         recipe.profit = recipe.price - recipe.cost;
         return recipe;
     }).filter(d => d).sort((a, b) => a.profit - b.profit);
-    console.log(cost);
+    console.log(cost, prices, recipes);
 
     setTimeout(() => {}, 1000 * 60 * 60);
 }else{
