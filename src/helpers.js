@@ -3,8 +3,9 @@ import Jimp from "jimp";
 import robot from "robotjs";
 
 export const PRICE_CONFIG = process.cwd() + "\\src\\data\\prices.json";
+export const RECIPES_PATH = process.cwd() + "\\src\\data\\recipes.json";
 
-export const recipes = JSON.parse(fs.readFileSync(process.cwd() + '\\src\\data\\recipes.json'));
+export const recipes = JSON.parse(fs.readFileSync(RECIPES_PATH));
 export const prices = fs.existsSync(PRICE_CONFIG) ? JSON.parse(fs.readFileSync(PRICE_CONFIG)) : false;
 
 export function generatePriceConfig(data)

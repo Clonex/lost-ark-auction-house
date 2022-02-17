@@ -3,6 +3,8 @@ import fetch from "node-fetch";
 import fs from "fs";
 import {JSDOM} from "jsdom";
 
+import {RECIPES_PATH} from "./helpers.js";
+
 function parseTip(html, id)
 {
     // console.log("Got data for ID", id, d);
@@ -30,8 +32,8 @@ async function grabber()
     const data = await fetch("https://lostarkcodex.com/query.php?a=recipes&l=us&_=1645112230992").then(d => d.json()).catch(_ => false);
     if(data && combatData)
     {
-        let combatD = combatData.aaData.map(([id]) => "recipe--" + id);
-        let d = data.aaData.map(([id]) => "recipe--" + id).filter(id => !combatD.includes(id));//.filter((_, i) => i < 5);
+        let combatD = combatData.aaData.map(([id]) => "recipe--10" + id);
+        let d = data.aaData.map(([id]) => "recipe--" + id).filter(id => combatD.includes(id));//.filter((_, i) => i < 5);
         // d = ["recipe--600001"];
         let promises = [];
         for(let i = 0; i < d.length; i++) // d.length
@@ -57,4 +59,4 @@ async function grabber()
     return out;
 }
 
-grabber().then(data => fs.writeFileSync("scrapedData.json", JSON.stringify(data)));
+grabber().then(data => fs.writeFileSync(RECIPES_PATH, JSON.stringify(data)));
