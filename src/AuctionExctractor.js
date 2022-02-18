@@ -38,12 +38,14 @@ export default class AuctionExtractor {
         // console.log("Got something", test);
     }
 
-    async ocr(buffer, charset)
+    async ocr(x, y, width, height, charset, DEBUG = false)
     {
+        const imgBuffer = await captureImage(x, y, width, height, DEBUG ? "test" : false);
+
         await this._worker.setParameters({
             tessedit_char_whitelist: charset,
         });
-        const { data: { text } } = await this._worker.recognize(buffer);
+        const { data: { text } } = await this._worker.recognize(imgBuffer);
         return text ?? "";
     }
 
@@ -57,10 +59,8 @@ export default class AuctionExtractor {
 
         robot.moveMouse(this.SEARCH_POS.x - 100, this.SEARCH_POS.y);
         robot.mouseClick();
-        // await clipboard.read();
         robot.keyTap('v', 'control');
         
-        // robot.typeStringDelayed(itemName, 99999999999999);
         robot.keyTap("enter");
         
         // Wait for search results
@@ -70,19 +70,19 @@ export default class AuctionExtractor {
             await wait(100);
         }
         
-        const priceImage = await captureImage(this.PRICE_POS.x, this.PRICE_POS.y, 123, 39);
-        
         await this._worker.load();
         await this._worker.loadLanguage('eng');
         await this._worker.initialize('eng');
         
-        const priceText = await this.ocr(priceImage, '0123456789.');
+        const priceText = await this.ocr(this.PRICE_POS.x, this.PRICE_POS.y, 123, 39, '0123456789.');
+        const lowPriceText = await this.ocr(this.PRICE_POS.x + 160, this.PRICE_POS.y, 123, 39, '0123456789.');
         let price = priceText.length > 0 ? Number(priceText.trim()) : false;
-        
+        let lowPrice = lowPriceText.length > 0 ? Number(lowPriceText.trim()) : false;
+        let unitSize = 1;
+
         if(price) // Adjust price if sold in bundles
         {
-            const bundleImage = await captureImage(this.BUNDLE_POS.x, this.BUNDLE_POS.y, 288, 17);
-            const bundleText = (await this.ocr(bundleImage, ' ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz[]0123456789.')).split(" ");
+            const bundleText = (await this.ocr(this.BUNDLE_POS.x, this.BUNDLE_POS.y, 288, 17, ' ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz[]0123456789.')).split(" ");
             for(let i = 0; i < bundleText.length; i++)
             {
                 const word = bundleText[i];
@@ -90,10 +90,15 @@ export default class AuctionExtractor {
                 {
                     const unitSize = bundleText[i - 1];
                     price = price / Number(unitSize.trim());
+                    lowPrice = lowPrice / Number(unitSize.trim());
                     break;
                 }
             }
         }
-        return price;
+        return {
+            price,
+            lowPrice,
+            unitSize,
+        };
     }
 }
