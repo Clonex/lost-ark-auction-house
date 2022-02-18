@@ -15,26 +15,27 @@ if(prices)
             {
                 mat.cost = mat.amount;
             }else if(!gathers.includes(mat.name)){
-                const price = prices[mat.name] ? prices[mat.name] : 100;
+                const price = prices[mat.name] ? prices[mat.name].price : 100;
                 mat.cost = Number(price) * mat.amount;
             }
             return mat;
         });
 
-        recipe.cost = recipe.materials.reduce((cost, curr) => {
-            // if(curr.name === "Gold")
-            // {
-            //     cost += curr.amount;
-            // }else if(!gathers.includes(curr.name)){
-            //     const price = prices[curr.name] ? prices[curr.name] : 100;
-            //     cost += Number(price) * curr.amount;
-            // }
-            return cost + curr.cost;
-        }, 0);
-        recipe.price = prices[recipe.name] ? prices[recipe.name] : recipe.cost;
+        recipe.cost = recipe.materials.reduce((cost, curr) => cost + curr.cost, 0);
+
+        const auctionPrice = prices[recipe.name];
+        if(auctionPrice)
+        {
+            recipe.lowPrice = auctionPrice.lowPrice;
+            recipe.price = auctionPrice.price;
+        }else{
+            recipe.lowPrice = recipe.cost;
+            recipe.price = recipe.cost;
+        }
         recipe.profit = recipe.price - recipe.cost;
+        recipe.priceDiff = recipe.price - recipe.lowPrice;
         return recipe;
-    }).filter(d => d && d.materials.length > 0).sort((a, b) => a.profit - b.profit);
+    }).filter(d => d && d.materials.length > 0).sort((a, b) => a.profit - b.profit);//.sort((a, b) => a.priceDiff - b.priceDiff);
     console.log(cost);//, prices, recipes);
 
     setTimeout(() => {}, 1000 * 60 * 60);
