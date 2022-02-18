@@ -88,9 +88,9 @@ export default class AuctionExtractor {
                 const word = bundleText[i];
                 if(word.toLowerCase().includes("units"))
                 {
-                    const unitSize = bundleText[i - 1];
-                    price = price / Number(unitSize.trim());
-                    lowPrice = lowPrice / Number(unitSize.trim());
+                    unitSize = Number(bundleText[i - 1].trim());
+                    price = price / unitSize;
+                    lowPrice = lowPrice / unitSize;
                     break;
                 }
             }

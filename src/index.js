@@ -39,5 +39,5 @@ if(prices)
 
     setTimeout(() => {}, 1000 * 60 * 60);
 }else{
-    console.log("Price data not found! Run `npm run scrape` to scrape the data.");
+    console.log("Price data not found! Run `yarn ocr` to OCR the data.");
 }
