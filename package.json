@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js",
     "start-brk": "node --inspect-brk src/index.js",
-    "scrape": "node src/scrape.js",
-    "grab": "node src/recipeGrabber.js",
+    "ocr": "node src/auctionHouse.js",
+    "scrape": "node src/recipeGrabber.js",
     "start:watch": "nodemon src/index.js"
   },
   "repository": {
