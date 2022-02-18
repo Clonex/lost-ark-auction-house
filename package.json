@@ -9,7 +9,7 @@
     "start": "node src/index.js",
     "start-brk": "node --inspect-brk src/index.js",
     "ocr": "node src/auctionHouse.js",
-    "scrape": "node src/recipeGrabber.js",
+    "scrape": "node src/recipeScraper.js",
     "start:watch": "nodemon src/index.js"
   },
   "repository": {
