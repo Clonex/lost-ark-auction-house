@@ -1,7 +1,5 @@
 # Auction house
 
-**WORK IN PROGRESS**
-
 Goal of this project it to extract all prices for all recipes from Lost ark auction house, and find the best recipes to flip, or make yourself.
 
 
@@ -25,3 +23,7 @@ yarn ocr
 yarn start
 ```
 
+
+## To do
+- Use a reference point to calculate the OCR positions, so it isnt resolution bound.
+- Get better recipe data
